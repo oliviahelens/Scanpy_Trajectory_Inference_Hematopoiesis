@@ -21,7 +21,7 @@ This notebook walks through:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install 'scanpy[leiden]' pooch scikit-image ipykernel
+pip install 'scanpy[leiden]' pooch scikit-image ipykernel fa2-modified louvain
 python -m ipykernel install --user --name=venv --display-name "Python (.venv)"
 ```
 
