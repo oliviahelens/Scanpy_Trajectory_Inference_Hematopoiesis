@@ -1,5 +1,5 @@
 # Scanpy Trajectory Inference Mouse Hematopoiesis
-rajectory inference for mouse hematopoiesis using Scanpy's PAGA workflow. Reconstructs myeloid and erythroid differentiation paths from the [Paul et al. (2015)](https://doi.org/10.1016/j.cell.2015.11.013) bone marrow dataset, with graph denoising, diffusion pseudotime, and gene expression tracking along lineage trajectories.
+Trajectory inference for mouse hematopoiesis using Scanpy's PAGA workflow. Reconstructs myeloid and erythroid differentiation paths from the [Paul et al. (2015)](https://doi.org/10.1016/j.cell.2015.11.013) bone marrow dataset, with graph denoising, diffusion pseudotime, and gene expression tracking along lineage trajectories.
 
 ## Overview
 
